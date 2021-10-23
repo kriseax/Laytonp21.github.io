@@ -2,8 +2,8 @@
 ## Welcome To Layton Perry's Website
 
 1. I'm majoring in Information Technology
-2. minoring in Computer Science
-3. mith a certificate in Cyber Security
+2. Minoring in Computer Science
+3. With a certificate in Cyber Security
 
 The below links will navigate to different topics about myself
 
