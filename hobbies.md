@@ -5,6 +5,6 @@ _I like to listen to podcasts and watch youtube vidos relating to technology whe
 ***I plan on making a hobby of practicing problems on leetcode to improve my programming skills***
 [Leetcode](https://leetcode.com)
 ![Spikeball](https://github.com/Laytonp21/Laytonp21.github.io/blob/main/spikeball.jpg?raw=true)
-![Lacrosse](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VJLZ42WAXII6XERKYQGJO5F4JA.jpg&w=916)
+![Lacrosse](http://www.gametimect.com/files/2021/04/st041721sptlaxbluewave-113.jpg)
 
 [return to home](./README.md)
