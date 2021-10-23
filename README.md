@@ -6,3 +6,8 @@ Minoring in Computer Science
 With a certificate in Cyber Security
 
 The below links will navigate to different topics about myself
+
+* [Skills](./currentSkills.md)
+* [Samepl](./sampleCode.md)
+* [Hobbies](./hobbies.md)
+* [Work Experience](./workExperience.md)
