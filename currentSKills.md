@@ -1,19 +1,19 @@
 # Current Skills
 
 ## Programming Languages
-- C
-- C#
-- Python
-- Javascript
+1. C
+2. C#
+3. Python
+4. Javascript
 
 ## Technical Skills
-- Cisco Networking
-- Linux operating systems
-- Visual Studio
+1. Cisco Networking
+2. Linux operating systems
+3. Visual Studio
 
 ## Soft Skills
-- Experience in team-based work environment.
-- Extensive professional communication experience
-- Leadership experience in collegiate club
+1. Experience in team-based work environment.
+2. Extensive professional communication experience
+3. Leadership experience in collegiate club
 
 [Go back to home page](./README.md)
